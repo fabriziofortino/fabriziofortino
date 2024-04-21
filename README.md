@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1430](https://github.com/apache/jackrabbit-oak/pull/1430#issuecomment-2066813207) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 💪 Opened PR [#1430](https://github.com/apache/jackrabbit-oak/pull/1430) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 💪 Opened PR [#1416](https://github.com/apache/jackrabbit-oak/pull/1416) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. 💪 Opened PR [#675](https://github.com/alexklibisz/elastiknn/pull/675) in [alexklibisz/elastiknn](https://github.com/alexklibisz/elastiknn)
-5. 🎉 Merged PR [#1353](https://github.com/apache/jackrabbit-oak/pull/1353) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 💪 Opened PR [#1431](https://github.com/apache/jackrabbit-oak/pull/1431) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 🗣 Commented on [#1430](https://github.com/apache/jackrabbit-oak/pull/1430#issuecomment-2066813207) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+3. 💪 Opened PR [#1430](https://github.com/apache/jackrabbit-oak/pull/1430) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+4. 💪 Opened PR [#1416](https://github.com/apache/jackrabbit-oak/pull/1416) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+5. 💪 Opened PR [#675](https://github.com/alexklibisz/elastiknn/pull/675) in [alexklibisz/elastiknn](https://github.com/alexklibisz/elastiknn)
 <!--END_SECTION:activity-->
 
 ---
