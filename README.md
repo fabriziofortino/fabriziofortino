@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1857](https://github.com/apache/jackrabbit-oak/pull/1857) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 🎉 Merged PR [#1840](https://github.com/apache/jackrabbit-oak/pull/1840) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 💪 Opened PR [#1840](https://github.com/apache/jackrabbit-oak/pull/1840) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. 🎉 Merged PR [#1804](https://github.com/apache/jackrabbit-oak/pull/1804) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-5. 🎉 Merged PR [#1646](https://github.com/apache/jackrabbit-oak/pull/1646) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 🎉 Merged PR [#1857](https://github.com/apache/jackrabbit-oak/pull/1857) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 💪 Opened PR [#1857](https://github.com/apache/jackrabbit-oak/pull/1857) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+3. 🎉 Merged PR [#1840](https://github.com/apache/jackrabbit-oak/pull/1840) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+4. 💪 Opened PR [#1840](https://github.com/apache/jackrabbit-oak/pull/1840) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+5. 🎉 Merged PR [#1804](https://github.com/apache/jackrabbit-oak/pull/1804) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 <!--END_SECTION:activity-->
 
 ---
