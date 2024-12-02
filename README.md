@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1883](https://github.com/apache/jackrabbit-oak/pull/1883) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. ❗ Opened issue [#241](https://github.com/ajalt/mordant/issues/241) in [ajalt/mordant](https://github.com/ajalt/mordant)
-3. 🎉 Merged PR [#1871](https://github.com/apache/jackrabbit-oak/pull/1871) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. 💪 Opened PR [#1871](https://github.com/apache/jackrabbit-oak/pull/1871) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-5. 🎉 Merged PR [#1857](https://github.com/apache/jackrabbit-oak/pull/1857) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 🎉 Merged PR [#1883](https://github.com/apache/jackrabbit-oak/pull/1883) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 🗣 Commented on [#241](https://github.com/ajalt/mordant/issues/241#issuecomment-2511668754) in [ajalt/mordant](https://github.com/ajalt/mordant)
+3. 💪 Opened PR [#1883](https://github.com/apache/jackrabbit-oak/pull/1883) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+4. ❗ Opened issue [#241](https://github.com/ajalt/mordant/issues/241) in [ajalt/mordant](https://github.com/ajalt/mordant)
+5. 🎉 Merged PR [#1871](https://github.com/apache/jackrabbit-oak/pull/1871) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 <!--END_SECTION:activity-->
 
 ---
