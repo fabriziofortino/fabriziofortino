@@ -5,9 +5,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2070](https://github.com/apache/jackrabbit-oak/pull/2070) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 💪 Opened PR [#2070](https://github.com/apache/jackrabbit-oak/pull/2070) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 🎉 Merged PR [#1904](https://github.com/apache/jackrabbit-oak/pull/1904) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 💪 Opened PR [#2101](https://github.com/apache/jackrabbit-oak/pull/2101) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 🎉 Merged PR [#2070](https://github.com/apache/jackrabbit-oak/pull/2070) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+3. 💪 Opened PR [#2070](https://github.com/apache/jackrabbit-oak/pull/2070) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 4. 💪 Opened PR [#1904](https://github.com/apache/jackrabbit-oak/pull/1904) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 5. 🎉 Merged PR [#1883](https://github.com/apache/jackrabbit-oak/pull/1883) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 <!--END_SECTION:activity-->
