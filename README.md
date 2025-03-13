@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/mxschmitt/awesome-playwright/pull/59) in [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
-2. 🎉 Merged PR [#2125](https://github.com/apache/jackrabbit-oak/pull/2125) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 💪 Opened PR [#2125](https://github.com/apache/jackrabbit-oak/pull/2125) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. 🎉 Merged PR [#2101](https://github.com/apache/jackrabbit-oak/pull/2101) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-5. 💪 Opened PR [#2101](https://github.com/apache/jackrabbit-oak/pull/2101) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 🎉 Merged PR [#2176](https://github.com/apache/jackrabbit-oak/pull/2176) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 💪 Opened PR [#59](https://github.com/mxschmitt/awesome-playwright/pull/59) in [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
+3. 🎉 Merged PR [#2125](https://github.com/apache/jackrabbit-oak/pull/2125) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+4. 💪 Opened PR [#2125](https://github.com/apache/jackrabbit-oak/pull/2125) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+5. 🎉 Merged PR [#2101](https://github.com/apache/jackrabbit-oak/pull/2101) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 <!--END_SECTION:activity-->
 
 ---
