@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2180](https://github.com/apache/jackrabbit-oak/pull/2180#issuecomment-2724779520) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 🗣 Commented on [#2180](https://github.com/apache/jackrabbit-oak/pull/2180#issuecomment-2723928546) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 💪 Opened PR [#2180](https://github.com/apache/jackrabbit-oak/pull/2180) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. 🎉 Merged PR [#2176](https://github.com/apache/jackrabbit-oak/pull/2176) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-5. 💪 Opened PR [#59](https://github.com/mxschmitt/awesome-playwright/pull/59) in [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
+1. 🎉 Merged PR [#2180](https://github.com/apache/jackrabbit-oak/pull/2180) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 🗣 Commented on [#2180](https://github.com/apache/jackrabbit-oak/pull/2180#issuecomment-2724779520) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+3. 🗣 Commented on [#2180](https://github.com/apache/jackrabbit-oak/pull/2180#issuecomment-2723928546) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+4. 💪 Opened PR [#2180](https://github.com/apache/jackrabbit-oak/pull/2180) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+5. 🎉 Merged PR [#2176](https://github.com/apache/jackrabbit-oak/pull/2176) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 <!--END_SECTION:activity-->
 
 ---
