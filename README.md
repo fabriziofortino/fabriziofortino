@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2173](https://github.com/apache/jackrabbit-oak/pull/2173) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 🎉 Merged PR [#2200](https://github.com/apache/jackrabbit-oak/pull/2200) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 💪 Opened PR [#2200](https://github.com/apache/jackrabbit-oak/pull/2200) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. ❗ Opened issue [#969](https://github.com/elastic/elasticsearch-java/issues/969) in [elastic/elasticsearch-java](https://github.com/elastic/elasticsearch-java)
-5. 🎉 Merged PR [#2194](https://github.com/apache/jackrabbit-oak/pull/2194) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+2. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+3. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+4. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+5. 🚀 Published release [1.0.0-debug](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0-debug) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
 <!--END_SECTION:activity-->
 
 ---
