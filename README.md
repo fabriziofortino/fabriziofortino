@@ -5,8 +5,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#900](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/900#issuecomment-2764706039) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
-2. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+1. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+2. 🗣 Commented on [#900](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/900#issuecomment-2764706039) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
 3. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
 4. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
 5. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
