@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kihdev/playwright-stealth-4j/pull/1) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
-2. 💪 Opened PR [#1](https://github.com/kihdev/playwright-stealth-4j/pull/1) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
-3. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
-4. 🗣 Commented on [#900](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/900#issuecomment-2764706039) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
-5. 🚀 Published release [1.0.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.0.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+1. 🚀 Published release [1.1.0](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.1.0) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+2. 🎉 Merged PR [#2](https://github.com/kihdev/playwright-stealth-4j/pull/2) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+3. 💪 Opened PR [#2](https://github.com/kihdev/playwright-stealth-4j/pull/2) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+4. 🎉 Merged PR [#1](https://github.com/kihdev/playwright-stealth-4j/pull/1) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+5. 💪 Opened PR [#1](https://github.com/kihdev/playwright-stealth-4j/pull/1) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
 <!--END_SECTION:activity-->
 
 ---
