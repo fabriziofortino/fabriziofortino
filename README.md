@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2289](https://github.com/apache/jackrabbit-oak/pull/2289) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 🎉 Merged PR [#2271](https://github.com/apache/jackrabbit-oak/pull/2271) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 💪 Opened PR [#2271](https://github.com/apache/jackrabbit-oak/pull/2271) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. 🗣 Commented on [#478](https://github.com/elastic/elasticsearch-java/issues/478#issuecomment-2837880315) in [elastic/elasticsearch-java](https://github.com/elastic/elasticsearch-java)
-5. 🗣 Commented on [#2234](https://github.com/apache/jackrabbit-oak/pull/2234#issuecomment-2823839355) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 💪 Opened PR [#2298](https://github.com/apache/jackrabbit-oak/pull/2298) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 💪 Opened PR [#2289](https://github.com/apache/jackrabbit-oak/pull/2289) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+3. 🎉 Merged PR [#2271](https://github.com/apache/jackrabbit-oak/pull/2271) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+4. 💪 Opened PR [#2271](https://github.com/apache/jackrabbit-oak/pull/2271) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+5. 🗣 Commented on [#478](https://github.com/elastic/elasticsearch-java/issues/478#issuecomment-2837880315) in [elastic/elasticsearch-java](https://github.com/elastic/elasticsearch-java)
 <!--END_SECTION:activity-->
 
 ---
