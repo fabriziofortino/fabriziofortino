@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2346](https://github.com/apache/jackrabbit-oak/pull/2346) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 💪 Opened PR [#2346](https://github.com/apache/jackrabbit-oak/pull/2346) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-3. 🎉 Merged PR [#2318](https://github.com/apache/jackrabbit-oak/pull/2318) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-4. 💪 Opened PR [#2318](https://github.com/apache/jackrabbit-oak/pull/2318) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-5. 🎉 Merged PR [#2298](https://github.com/apache/jackrabbit-oak/pull/2298) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 🚀 Published release [v1.1.2](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.1.2) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+2. 🎉 Merged PR [#8](https://github.com/kihdev/playwright-stealth-4j/pull/8) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+3. 💪 Opened PR [#8](https://github.com/kihdev/playwright-stealth-4j/pull/8) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+4. 🔒 Closed issue [#6](https://github.com/kihdev/playwright-stealth-4j/issues/6) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
+5. 🎉 Merged PR [#7](https://github.com/kihdev/playwright-stealth-4j/pull/7) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
 <!--END_SECTION:activity-->
 
 ---
