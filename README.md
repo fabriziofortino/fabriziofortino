@@ -1,4 +1,73 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Search+%26+Indexing+Specialist;Building+Scalable+Platforms)
+
+# 👋 Hi, I'm Fabrizio Fortino
+
+🚀 Building scalable **search, indexing, and enrichment platforms**  
+🧠 Passionate about **system architecture, search technologies, and developer tooling**  
+📍 Based in Switzerland | 💼 Senior Individual Contributor  
+🏛️ **PMC Member of Apache Jackrabbit Oak**
+
+---
+
+## 🧩 What I Work On
+
+- 🔍 **Search & Indexing Platforms**  
+  Designing high-performance systems with **Elasticsearch**, **Lucene**, and **vector search**
+
+- 🧱 **Scalable Architectures**  
+  Multi-tenant services, background pipelines, and enrichment workflows
+
+- 🤖 **AI + Search**  
+  Semantic search, vector queries, and LLM-powered enrichment pipelines
+
+- 🛠️ **Developer Tooling**  
+  JVM libraries (Kotlin/Java/Groovy), CI automation, Maven publishing
+
+---
+
+## 💡 Current Projects
+
+- ⚙️ **Search + Enrichment Platform** (Quarkus, Java, Python integration)  
+- 🧠 **Graph-based Content Modeling**  
+
+---
+
+## 🧭 Career Focus
+
+🎯 Senior Engineer on the **Individual Contributor track**  
+
+Strong focus on:
+- System design  
+- Technical leadership  
+- Long-term architecture decisions  
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+![Lucene](https://img.shields.io/badge/Lucene-0197EC?style=for-the-badge)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+## 🏛️ Open Source & Community
+
+- **PMC Member – Apache Jackrabbit Oak**  
+  Contributing to the governance, direction, and long-term evolution of one of the most widely used Java content repositories.
+
+- Active contributor to search, content management, and developer tooling ecosystems.
+
+---
+
+## 🌍 Let's Connect
+
+- 💼 Open to technical discussions & architecture challenges  
+- 🧠 Always interested in search, AI, and platform engineering  
+- 🤝 Happy to collaborate on open-source and tooling projects
 
 ---
 
@@ -14,18 +83,4 @@
 
 ---
 
-<!--
-**fabriziofortino/fabriziofortino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![](https://komarev.com/ghpvc/?username=fabriziofortino)
