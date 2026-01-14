@@ -74,11 +74,11 @@ Strong focus on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#140497](https://github.com/elastic/elasticsearch/issues/140497) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-2. 🗣 Commented on [#140497](https://github.com/elastic/elasticsearch/issues/140497#issuecomment-3737670598) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-3. ℹ️ Labeled issue [#140497](https://github.com/elastic/elasticsearch/issues/140497) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+1. 🎉 Merged PR [#2681](https://github.com/apache/jackrabbit-oak/pull/2681) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 🔒 Closed issue [#140497](https://github.com/elastic/elasticsearch/issues/140497) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+3. 🗣 Commented on [#140497](https://github.com/elastic/elasticsearch/issues/140497#issuecomment-3737670598) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 4. ℹ️ Labeled issue [#140497](https://github.com/elastic/elasticsearch/issues/140497) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-5. ❗ Opened issue [#140497](https://github.com/elastic/elasticsearch/issues/140497) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+5. ℹ️ Labeled issue [#140497](https://github.com/elastic/elasticsearch/issues/140497) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 <!--END_SECTION:activity-->
 
 ---
