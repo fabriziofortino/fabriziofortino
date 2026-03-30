@@ -74,8 +74,8 @@ Strong focus on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/fabriziofortino/balordi/pull/1) in [fabriziofortino/balordi](https://github.com/fabriziofortino/balordi)
-2. 💪 Opened PR [#1](https://github.com/fabriziofortino/balordi/pull/1) in [fabriziofortino/balordi](https://github.com/fabriziofortino/balordi)
+1. ℹ️ Labeled PR [#2820](https://github.com/apache/jackrabbit-oak/pull/2820) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 💪 Opened PR [#2820](https://github.com/apache/jackrabbit-oak/pull/2820) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 3. 💪 Opened PR [#2700](https://github.com/apache/jackrabbit-oak/pull/2700) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 4. 🎉 Merged PR [#2681](https://github.com/apache/jackrabbit-oak/pull/2681) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 5. 🔒 Closed issue [#140497](https://github.com/elastic/elasticsearch/issues/140497) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
