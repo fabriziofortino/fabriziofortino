@@ -74,8 +74,8 @@ Strong focus on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3079](https://github.com/apache/jackrabbit-oak/pull/3079) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
-2. 💪 Opened PR [#2956](https://github.com/apache/jackrabbit-oak/pull/2956) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+1. 🎉 Merged PR [#3079](https://github.com/apache/jackrabbit-oak/pull/3079) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
+2. 💪 Opened PR [#3079](https://github.com/apache/jackrabbit-oak/pull/3079) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 3. 🚀 Published release [v1.1.3](https://github.com/kihdev/playwright-stealth-4j/releases/tag/v1.1.3) in [kihdev/playwright-stealth-4j](https://github.com/kihdev/playwright-stealth-4j)
 4. 🎉 Merged PR [#2925](https://github.com/apache/jackrabbit-oak/pull/2925) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
 5. 💪 Opened PR [#2925](https://github.com/apache/jackrabbit-oak/pull/2925) in [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak)
